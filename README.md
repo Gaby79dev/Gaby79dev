@@ -5,7 +5,7 @@
 # 🚀 Gabriel Visiedo - Full Stack Developer
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
-![Reflex](https://img.shields.io/badge/Reflex-Python-purple)
+![Reflex](https://img.shields.io/badge/Reflex-Modern_Web_Framework-blueviolet)
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
