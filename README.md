@@ -5,12 +5,14 @@
 # 🚀 Gabriel Visiedo - Full Stack Developer
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-orange?logo=kotlin&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Reflex](https://img.shields.io/badge/Reflex-Python-purple)
+![Kotlin](https://img.shields.io/badge/Kotlin-orange?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+
 
 
 Bienvenido a mi perfil. Soy un desarrollador apasionado especializado en **aplicaciones móviles con Kotlin** y **desarrollo web con Python**. A continuación, te muestro algunos de los proyectos más destacados que he creado.
