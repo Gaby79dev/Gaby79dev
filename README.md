@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?logo=kotlin&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Reflex](https://img.shields.io/badge/Reflex-Python-purple)
 
 Bienvenido a mi perfil. Soy un desarrollador apasionado especializado en **aplicaciones móviles con Kotlin** y **desarrollo web con Python**. A continuación, te muestro algunos de los proyectos más destacados que he creado.
