@@ -1,4 +1,4 @@
-![Gabriel Visiedo Banner](https://firebasestorage.googleapis.com/v0/b/menastore-4e3ee.appspot.com/o/web_hotel%2Fbanner_vipedev.png?alt=media&token=f32139c0-dc49-47ad-b5f8-1365c6b26342)
+![Gabriel Visiedo Banner](https://firebasestorage.googleapis.com/v0/b/menastore-4e3ee.appspot.com/o/web_hotel%2Fbanner_vipedev.jpg?alt=media&token=546a1046-e8aa-4a73-8269-1b6fccaf3bd0)
 
 # 🚀 Gabriel Visiedo — Full Stack Developer
 
