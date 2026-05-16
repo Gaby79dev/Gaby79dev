@@ -85,5 +85,3 @@ pie
 ---
 
 <p align="center">⭐ Desde 2020, convirtiendo código en soluciones reales.</p>
-
-
