@@ -13,8 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaby79dev&show_icons=true&theme=radical&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaby79dev&layout=compact&theme=radical&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaby79dev&show_icons=true&theme=radical&hide_border=true&cache_buster=1" height="170" alt="Gaby79dev's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaby79dev&layout=compact&theme=radical&hide_border=true&cache_buster=1" height="170" alt="Gaby79dev's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaby79dev&theme=radical&hide_border=true&cache_buster=1" alt="Gaby79dev's GitHub streak" />
 </p>
 
 ---
@@ -81,4 +85,5 @@ pie
 ---
 
 <p align="center">⭐ Desde 2020, convirtiendo código en soluciones reales.</p>
+
 
